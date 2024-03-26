@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isuru Udayanga Senanayaka</h1>
+<h1 align="center">Hi 👋, I'm Isuru Senanayaka</h1>
 <h3 align="center">I'm passionate about game development and game engines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isuruudayanga&label=Profile%20views&color=0e75b6&style=flat" alt="isuruudayanga" /> </p>
